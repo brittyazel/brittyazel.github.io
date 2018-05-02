@@ -167,11 +167,11 @@ textarea:-ms-input-placeholder {
 	}
 
 	.container { width: 100%; }
-	.tm-left-column { width: 20%; }
+	.tm-left-column { width: 30%; }
 
 	.tm-right-column {
 		float: right;
-		width: 80%;
+		width: 70%;
 	}
 
 	.tm-nav-item {
@@ -212,6 +212,25 @@ textarea:-ms-input-placeholder {
 	}
 
 	.tm-contact-right { margin-top: 0; }
+}
+@media screen and (max-width:991px) {
+    .tm-main-nav {
+        display: block;
+        padding: 0 40px;
+        text-align: center;
+    }
+
+    .tm-main-nav-ul {
+        display: inline-block;
+        padding-left: 0;
+        list-style-type: none;
+    }
+
+    .tm-nav-item {
+        display: inline-block;
+        margin: 0 20px;
+    }
+
 }
 
 @media (min-width: 1200px) {
