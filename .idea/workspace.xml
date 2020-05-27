@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eced563d-1824-497f-a8c9-573f5f612a24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/templatemo-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/brittyazel.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/brittyazel.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/World of Warcraft/_retail_/Interface/Addons/RaidFrameIndicators" />
   </component>
   <component name="SvnConfiguration">
@@ -28,15 +52,34 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1846" y="206" key="#HTML" timestamp="1590536265130">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1846" y="206" key="#HTML/0.0.3440.1400@0.0.3440.1400" timestamp="1590536265130" />
+    <state x="1191" y="486" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590606265727">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1191" y="486" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1590606265727" />
     <state x="1606" y="422" key="FileChooserDialogImpl" timestamp="1590604982129">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="1606" y="422" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1590604982129" />
+    <state x="1168" y="339" width="585" height="801" key="find.popup" timestamp="1590606378093">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1168" y="339" width="585" height="801" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1590606378093" />
     <state x="1535" y="378" width="672" height="678" key="search.everywhere.popup" timestamp="1590533965525">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
