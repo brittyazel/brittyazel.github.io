@@ -155,7 +155,7 @@ textarea:-ms-input-placeholder {
 	.tm-about-img-container { margin-top: 0; }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 1000px) {
 	.tm-main-nav {
 		display: flex;
 		justify-content: center;
@@ -214,7 +214,7 @@ textarea:-ms-input-placeholder {
 
 	.tm-contact-right { margin-top: 0; }
 }
-@media screen and (max-width:991px) {
+@media screen and (max-width:999px) {
     .tm-main-nav {
         display: block;
         padding: 0 40px;
