@@ -168,11 +168,11 @@ textarea:-ms-input-placeholder {
 	}
 
 	.container { width: 100%; }
-	.tm-left-column { width: 30%; }
+	.tm-left-column { width: 25%; }
 
 	.tm-right-column {
 		float: right;
-		width: 70%;
+		width: 75%;
 	}
 
 	.tm-nav-item {
